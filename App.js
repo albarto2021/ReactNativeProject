@@ -5,6 +5,7 @@ import { StyleSheet, Text, View } from "react-native";
 // View -> UIView
 export default function App() {
   let x = 1;
+  let y = 5;
   console.log("App executed");
 
   return (
